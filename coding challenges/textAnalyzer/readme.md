@@ -1,6 +1,6 @@
 # Text Analyzer
 
-This Javacript function take in a string and returns an object containing the following information:
+This Javacript function takes in a string and returns an object containing the following information:
 
 -Number of characters
 -Number of Words
